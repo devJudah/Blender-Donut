@@ -2,3 +2,5 @@
 3D model and Animation of Donut Scene
 
 <img src="Donut/Renders/numero6.png">
+<br> <br> 
+<img src="Donut/Renders/numero7.tiff">
